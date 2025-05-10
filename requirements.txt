@@ -1,0 +1,8 @@
+python-dotenv
+pydantic
+openai-agents
+browser-use
+langchain-openai
+openai
+pillow
+langchain-google-genai
