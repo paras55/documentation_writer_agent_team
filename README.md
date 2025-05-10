@@ -1,4 +1,4 @@
-# 🧠 AI-Powered Technical Documentation Automation
+# 🧠 Technical Documentation AI Agent Team
 
 This project automates the generation of technical documentation using a multi-agent AI workflow. It simulates a complete research, execution, and writing pipeline based on user queries — ideal for guides, how-tos, and tutorials.
 
